@@ -36,4 +36,4 @@ T.post('statuses/update', { status: `📍  ${name}\n ${emoji} ${temp}°C (${comm
 
 ## Creator
 
-Created by [Evan Bitic](www.evan-bitic.fr).
+Created by [Evan Bitic](http://www.evan-bitic.fr).
